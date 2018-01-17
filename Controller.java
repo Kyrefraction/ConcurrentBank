@@ -1,6 +1,6 @@
 
 public class Controller {
-	/** Author: Vincenzo Scialpi-Sullivan 15072935 */
+	/** Author: Vincenzo Scialpi */
 
 	public static void main(String[] args) throws InterruptedException {
 		int a = 0; /** Variable for the amount of threads to run */
